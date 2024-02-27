@@ -1,0 +1,19 @@
+{
+  "name": "express-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node src/bin/www",
+    "start:dev": "nodemon src/bin/www"
+  },
+  "keywords": [],
+  "author": "Hung Hoang Quang <hqhung201@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.0"
+  }
+}
